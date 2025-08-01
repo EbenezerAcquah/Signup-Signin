@@ -46,7 +46,7 @@ body{
 }
 
 .container button{
-    background-color: green;
+    background-color: darkgreen;
     color: white;
     font-size: 12px;
     padding: 10px 45px;
@@ -65,7 +65,7 @@ body{
 }
 
 .container form{
-    background-color: #fff;
+    background-color: white;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -160,9 +160,9 @@ body{
 }
 
 .toggle{
-    background-color: green;
+    background-color: darkgreen;
     height: 100%;
-    background: linear-gradient(to right, green, green);
+    background: darkgreen;
     color: #fff;
     position: relative;
     left: -100%;
